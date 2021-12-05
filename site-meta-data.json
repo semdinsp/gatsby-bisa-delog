@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "BISA Website",
+  "siteUrl": "https://gatsby-bisa.netlify.com/",
+  "description": "Website for access to BISA products.  BISA provides international market development for Indonesian companies",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Welcome to BISA",
+    "description": "BISA is the Business Interantional Singapore Association.  We provide market development for SMEs.  We are currently importing Indonesia products for distribution in Singapore.  Contact us if you would like us to distribute your products for you."
   }
 }
