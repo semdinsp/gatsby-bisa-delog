@@ -21,7 +21,7 @@ const ContactPage = ({
       </div>
       <div>
         <form className="form-container" name="contact-bisa" data-netlify="true"  data-netlify-honeypot="bot-field" action="/success"  method="POST">
-          <div>  
+          <div>
             <input type="hidden" name="bot-field" />
             <input type="hidden" name="form-name" value="contact-bisa" />
           </div>
@@ -30,7 +30,7 @@ const ContactPage = ({
             <input type="text" name="name" id="name" /></label>
           </div>
           <div>
-            <label htmlFor="email">Email
+            <label htmlFor="email">Email 
             <input type="email" name="email" id="sender" /></label>
           </div>
           <div>
